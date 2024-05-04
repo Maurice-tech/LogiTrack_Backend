@@ -1,0 +1,13 @@
+org/logitrack/securities/LojiTrackFilter.class
+org/logitrack/emails/EmailService.class
+org/logitrack/services/CustomerServiceImpl/CustomerServiceImpl.class
+org/logitrack/controller/AuthController.class
+org/logitrack/emails/EmailConfiguration.class
+org/logitrack/securities/AppUserDetailsService.class
+org/logitrack/securities/JWTService.class
+org/logitrack/services/CustomerServiceImpl/CreateAdmin.class
+org/logitrack/UserManagementApplication.class
+org/logitrack/securities/AppUserDetails.class
+org/logitrack/securities/SecurityConfiguration.class
+org/logitrack/services/CustomerService.class
+org/logitrack/validation/PasswordValidator.class

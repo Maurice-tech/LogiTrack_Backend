@@ -1,0 +1,13 @@
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/securities/AppUserDetailsService.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/securities/LojiTrackFilter.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/securities/AppUserDetails.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/securities/JWTService.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/controller/AuthController.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/emails/EmailService.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/services/CustomerServiceImpl/CreateAdmin.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/emails/EmailConfiguration.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/services/CustomerService.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/UserManagementApplication.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/validation/PasswordValidator.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/services/CustomerServiceImpl/CustomerServiceImpl.java
+/Users/decagon/Downloads/logi-track-backend/user-management/src/main/java/org/logitrack/securities/SecurityConfiguration.java
